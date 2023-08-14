@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fererrrd 
 - 👀 I’m interested in making mobile applications.
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React
 - 📫 How to reach me cimafer02@gmail.com
 
 <!---
