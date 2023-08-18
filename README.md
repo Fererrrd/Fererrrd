@@ -3,8 +3,4 @@
 - 🌱 I’m currently learning Next.js
 - 👨‍💻 I code because it's fun
 - 📫 How to reach me cimafer02@gmail.com
-
-<!---
-Fererrrd/Fererrrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![CodeCodingGIF](https://github.com/Fererrrd/Fererrrd/assets/138937242/b4b63e13-155c-4cc0-9f67-6b4c599b998e)
