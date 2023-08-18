@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fererrrd 
 - 👀 I’m interested in making mobile applications.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
+- 👨‍💻 I code because it's fun
 - 📫 How to reach me cimafer02@gmail.com
 
 <!---
